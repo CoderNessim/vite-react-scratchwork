@@ -77,6 +77,10 @@ export function Board() {
   );
 }
 
+export function Game() {
+  
+}
+
 function App() {
   return (
     <>
